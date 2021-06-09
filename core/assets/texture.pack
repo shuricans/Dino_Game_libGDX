@@ -1,0 +1,47 @@
+
+texture.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+road
+  rotate: false
+  xy: 1, 111
+  size: 600, 14
+  orig: 600, 30
+  offset: 0, 9
+  index: -1
+T-Rex
+  rotate: false
+  xy: 1, 50
+  size: 354, 59
+  orig: 354, 59
+  offset: 0, 0
+  index: -1
+Bird
+  rotate: false
+  xy: 1, 1
+  size: 55, 47
+  orig: 55, 55
+  offset: 0, 3
+  index: -1
+CactusBig
+  rotate: false
+  xy: 357, 50
+  size: 82, 59
+  orig: 82, 59
+  offset: 0, 0
+  index: -1
+Cloud
+  rotate: false
+  xy: 113, 25
+  size: 80, 23
+  orig: 80, 80
+  offset: 0, 40
+  index: -1
+CactusSmall
+  rotate: false
+  xy: 441, 79
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
